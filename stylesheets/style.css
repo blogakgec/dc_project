@@ -1,0 +1,136 @@
+* {
+    margin:0px;
+    padding:0px;
+}
+body
+{
+    background:#C8C8C8;
+}
+#big_wrapper
+{
+    width:100%;
+    height:100%;    
+}
+
+h1#head_text {
+    background:#606060;
+    color:white;
+    text-align:center;
+    font:45px courier;
+    padding:12px;
+    }
+#clock_box
+{
+  width:100%;
+    height:25%;
+}
+#clock
+{
+    color:#606060;
+    font:100px courier;
+    margin-left:35%;
+    margin-top:5%;
+    
+}
+
+#message
+{
+    margin-left:37%;
+    margin-top:25px;
+    font:20px courier;
+    color:red;
+}
+#box1
+{
+    margin-left:33%;
+    margin-top:50px;
+    width:20%;
+    height:50px;
+    font:25px courier;
+    padding-left:10px;
+    border:2px solid #606060;
+}
+#box2
+{
+    margin-left:15px;
+    background:#606060;
+    height:52px;
+    color:white;
+    padding:10px;
+    width:15%;
+    font:20px verdana;
+    border:2px solid #606060;
+    
+}
+#footer
+{
+    margin-left:45%;
+    margin-top:5%;
+}
+#footer_text
+{
+    margin-left:-50px;
+}
+#image
+{
+    margin-top:3%;
+    margin-left:3%;
+    float:left;
+}
+#inner_box
+{
+   margin-top:3.5%;
+    margin-left:10%;
+    margin-bottom:3.5%;    
+    width:80%;
+    height:320px;
+    background-color:#606060;
+    margin-bottom:0%;
+}
+
+#data1
+{
+    margin-top:5%;
+    float:left;
+    margin-left:15%;
+    
+}
+#info {
+       
+    text-align:center;  
+    color:white;
+    font:35px courier;
+    width:100%;
+}
+#inner_text
+{ margin-left:43%;
+    color:white;
+    font:35px courier;
+}
+#button1
+{
+    padding:15px;
+    font:20px courier;
+    color:#606060;
+    margin-left:63%;
+    
+}
+#name
+{
+   font-family:"Tw Cen MT";
+    font-size:45px;
+    color:white;
+    text-align:center;
+}
+#student_no
+{
+    font-family:"Tw Cen MT";
+    font-size:30px;
+    color:white;
+}
+#branch
+{
+     font-family:"Tw Cen MT";
+    font-size:30px;
+    color:white;
+}
